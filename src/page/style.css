@@ -1,0 +1,23 @@
+.Item1 {
+  padding: 10px;
+  background: rgb(212, 212, 123);
+}
+
+.Item2 {
+  padding: 10px;
+  background: rgb(95, 190, 151);
+}
+
+.Item3 {
+  padding: 10px;
+  background: rgb(151, 93, 96);
+}
+.Item4 {
+  padding: 10px;
+  background: rgb(57, 163, 163);
+}
+
+.Error {
+  padding: 10px;
+  background: rgb(187, 135, 197);
+}
